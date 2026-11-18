@@ -23,10 +23,17 @@ function debounce(func, wait = 250) {
 }
 
 // ==========================================
+// SITE ROOT
+// Works on both the custom domain (https://dhruvkpatel.dev/)
+// and the old GitHub Pages address (https://pdhruv09.github.io/Dhruv_Patel_website/)
+// ==========================================
+const ROOT_PATH = location.hostname.endsWith("github.io") ? "/Dhruv_Patel_website/" : "/";
+
+// ==========================================
 // NAVIGATION GENERATION (ENHANCED)
 // ==========================================
 function generateNavigation() {
-    const rootPath = "/Dhruv_Patel_website/";
+    const rootPath = ROOT_PATH;
     const pages = [
         { url: "", title: "Home", icon: "🏠" },
         { url: "home.html#about", title: "About", icon: "👤" },
@@ -243,7 +250,7 @@ async function displayGitHubStats() {
 async function loadProjectData(retries = 3, delay = 2000) {
     for (let attempt = 0; attempt < retries; attempt++) {
         try {
-            const response = await fetch("/Dhruv_Patel_website/projects/assets/json/project.json", {
+            const response = await fetch(`${ROOT_PATH}projects/assets/json/project.json`, {
                 cache: "no-cache"
             });
             
