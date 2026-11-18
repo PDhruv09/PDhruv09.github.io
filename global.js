@@ -24,10 +24,9 @@ function debounce(func, wait = 250) {
 
 // ==========================================
 // SITE ROOT
-// Works on both the custom domain (https://dhruvkpatel.dev/)
-// and the old GitHub Pages address (https://pdhruv09.github.io/Dhruv_Patel_website/)
+// The site is the GitHub user site (PDhruv09.github.io) served at https://dhruvkpatel.dev/
 // ==========================================
-const ROOT_PATH = location.hostname.endsWith("github.io") ? "/Dhruv_Patel_website/" : "/";
+const ROOT_PATH = "/";
 
 // ==========================================
 // NAVIGATION GENERATION (ENHANCED)

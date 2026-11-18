@@ -10,42 +10,42 @@
     "title": "Does Urbanization Affect Power Outages?",
     "year": "2024",
     "image": "../Images/projects/urbanization_power_outage.jpg",
-    "link": "https://pdhruv09.github.io/Urbanization_PowerOutage/",
+    "link": "https://dhruvkpatel.dev/Urbanization_PowerOutage/",
     "description": "An analytical project for DSC 80 at UCSD analyzing major power outages in the U.S. from January 2000 to July 2016. Uses data from Purdue University's infrastructure lab."
   },
   {
     "title": "Interactive General Knowledge Quiz",
     "year": "2024",
     "image": "../Images/projects/interactive_quiz.jpg",
-    "link": "https://pdhruv09.github.io/Interactive_Quiz/",
+    "link": "https://dhruvkpatel.dev/Interactive_Quiz/",
     "description": "An interactive quiz application using a doubly linked list to store and traverse questions and answers. Demonstrates data structures, algorithmic thinking, and frontend interactivity."
   },
   {
     "title": "League of Legends Win Rate Analysis",
     "year": "2025",
     "image": "../Images/projects/lol_analysis.jpg",
-    "link": "https://pdhruv09.github.io/lol-esports-explorable/",
+    "link": "https://dhruvkpatel.dev/lol-esports-explorable/",
     "description": "Analyzes win rates by region using professional esports match data from Oracle’s Elixir. Applies hypothesis testing and statistical analysis to study competitive balance across leagues."
   },
   {
     "title": "Mapping Boston Cycling Routes",
     "year": "2025",
     "image": "../Images/projects/mapping.jpg",
-    "link": "https://pdhruv09.github.io/Maping/",
+    "link": "https://dhruvkpatel.dev/Maping/",
     "description": "An interactive map visualizing bike routes and station-level trip activity across Boston and Cambridge, highlighting urban mobility patterns over a single day."
   },
   {
     "title": "Mouse Activity and Temperature Analysis",
     "year": "2025",
     "image": "../Images/projects/mouse_analysis.jpg",
-    "link": "https://pdhruv09.github.io/Mouse-Activity-Explorable/",
+    "link": "https://dhruvkpatel.dev/Mouse-Activity-Explorable/",
     "description": "Interactive visualizations exploring minute-level fluctuations in mouse core body temperature and activity over a 14-day period, revealing circadian rhythms, gender differences, and estrus cycles."
   },
   {
     "title": "San Diego Transit Accessibility Analysis",
     "year": "2025",
     "image": "../Images/projects/sandiego_transit_map.png",
-    "link": "https://pdhruv09.github.io/DSC_170_GIS_SanDiego_Transit_Map/",
+    "link": "https://dhruvkpatel.dev/DSC_170_GIS_SanDiego_Transit_Map/",
     "description": "A GIS-based analysis of public transit accessibility across San Diego County. Identifies transit deserts using spatial buffers and census data, and proposes policy improvements via an interactive StoryMap."
   },
   {
@@ -73,14 +73,14 @@
     "title": "MNIST Neural Network – 10 Digit Classification",
     "year": "2025",
     "image": "../Images/projects/mnist_nn.png",
-    "link": "https://pdhruv09.github.io/Neural_Network/",
+    "link": "https://dhruvkpatel.dev/Neural_Network/",
     "description": "Implements neural networks from scratch to classify handwritten digits (0–9) from the MNIST dataset. Explores model architecture, training dynamics, and performance trade-offs."
   },
   {
     "title": "Sorting Algorithm Visualization",
     "year": "2025",
     "image": "../Images/projects/sorting_visualization.png",
-    "link": "https://pdhruv09.github.io/Sorting_Algorithm_visualization/",
+    "link": "https://dhruvkpatel.dev/Sorting_Algorithm_visualization/",
     "description": "A visual and interactive demonstration of classic sorting algorithms including Bubble Sort, Merge Sort, and Quick Sort. Highlights algorithmic complexity, comparisons, and swap operations in real time."
   }
 ]

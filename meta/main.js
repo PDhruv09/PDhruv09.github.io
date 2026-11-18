@@ -135,7 +135,7 @@ function processCommits() {
         const first = lines[0];
         return {
             id: commit,
-            url: `https://github.com/PDhruv09/Dhruv_Patel_website/commit/${commit}`,
+            url: `https://github.com/PDhruv09/PDhruv09.github.io/commit/${commit}`,
             author: first.author,
             date: first.date,
             datetime: first.datetime,
